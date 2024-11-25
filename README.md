@@ -1,3 +1,1 @@
-![Без имени-1](https://github.com/user-attachments/assets/8c9bf5dc-c143-4765-b188-ef044ebecbb8)
-
-вма
+![Без имени-1](https://github.com/user-attachments/assets/c93ed416-a4d4-44aa-8709-9985c6d53e15)
