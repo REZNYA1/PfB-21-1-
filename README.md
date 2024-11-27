@@ -7,6 +7,9 @@
 
 ---
 
+![Uploading Видео-без-названия-—-сделано-в-Clipchamp (1).gif…]()
+
+
 ## 🚀 Working with the Website
 
 Once the application is up and running, you can interact with the various features it offers. Here’s a breakdown of how to use the different sections of the site:
