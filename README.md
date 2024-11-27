@@ -1,1 +1,2 @@
-![Без имен12и-1](https://github.com/user-attachments/assets/900c912e-ce3d-4d59-809c-68fe66fae267)
+
+![Без име12ни-1](https://github.com/user-attachments/assets/e37a06d9-f42f-4787-b976-e2d1e2fd0e88)
