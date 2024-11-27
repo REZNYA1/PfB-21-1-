@@ -167,7 +167,7 @@ python server/server.py
 - The teacher’s section allows test management.
 - The test pages let users create or take tests.
 
-## ** 🛠️ Technologies **
-- Frontend: React, GSAP, Vite.
-- Backend: Python, Flask (or Django).
-- CSS: For styling the interface.
+## **🛠️ Technologies**
+- **Frontend**: React, GSAP, Vite.
+- **Backend**: Python, Flask (or Django).
+- **CSS**: For styling the interface.
