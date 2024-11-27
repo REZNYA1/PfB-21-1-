@@ -7,7 +7,11 @@
 
 ---
 
-# ![Видео без названия — сделано в Clipchamp](https://github.com/user-attachments/assets/aed351ae-deec-4b9d-b4a4-5a71cf30f3ca)
+
+![Видео без названия — сделано в Clipchamp (1) (1)](https://github.com/user-attachments/assets/119febfc-d13b-486b-92dd-b244a3459956)
+
+
+
 
 
 
